@@ -1,4 +1,4 @@
-# Cubesat Tacker
+# Cubesat Tracker
 
 A Python script for calculating azimuth, elevation, position data, etc. for satellite overflights.
 
