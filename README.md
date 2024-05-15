@@ -1,6 +1,6 @@
 # Cubesat Tacker
 
-A Python script fpr calculating azimuth, elevation, position data, etc. for satellite overflights.
+A Python script for calculating azimuth, elevation, position data, etc. for satellite overflights.
 
 ## Dependencies 
 
