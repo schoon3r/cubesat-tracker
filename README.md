@@ -4,7 +4,7 @@ A Python script for calculating azimuth, elevation, position data, etc. for sate
 
 ## Dependencies 
 
-`pip install -r requirementes.txt`
+`pip install -r requirements.txt`
 
 Note: Python2 interpreter used during testing.
 
