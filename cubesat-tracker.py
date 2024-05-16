@@ -15,9 +15,9 @@ satellite = EarthSatellite(line1, line2, 'M2 PATHFINDER', ts)
 print("[+] Tracking Satellite:")
 print(satellite)
 
-# Define observer's location (Adelaide SA 5000)
-observer_lat = -34.93
-observer_lon = 138.60
+# Define observer's location (Sydney NSW 2000)
+observer_lat = -33.88
+observer_lon = 151.19
 observer_elevation = 0
 
 # Get current time
